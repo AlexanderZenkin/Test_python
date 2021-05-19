@@ -1,6 +1,6 @@
 from selenium import webdriver
 import time
-#count = 0
+count = 0
 try:
     browser = webdriver.Chrome()
     browser.get("http://suninjuly.github.io/huge_form.html")
@@ -8,7 +8,7 @@ try:
 
     for element in elements:
         element.send_keys(1)
-        #count = count + 1
+        count = count + 1
 
     button = browser.find_element_by_css_selector("button.btn")
     button.click()
