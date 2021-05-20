@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b1f45ad-6735-4c08-906c-656c1c1548ef" name="Default Changelist" comment="add dir">
-      <change afterPath="$PROJECT_DIR$/module_2/test_2-1-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2/test_2-1-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_1/New_File.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/lesson_6/New_File.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/lesson_6/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_1/test_1-6-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/lesson_6/test_1-6-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_1/test_1-6-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/lesson_6/test_1-6-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_1/test_1-6-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/lesson_6/test_1-6-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_1/test_1-6-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/lesson_6/test_1-6-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_1/test_1-6-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/lesson_6/test_1-6-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_1/test_1-6-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/lesson_6/test_1-6-6.py" afterDir="false" />
-    </list>
+    <list default="true" id="8b1f45ad-6735-4c08-906c-656c1c1548ef" name="Default Changelist" comment="module 2 lesson 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,15 +37,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/module_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/module_2/lesson_2" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Александр\Documents\Test_python\module_2\lesson_2" />
       <recent name="C:\Users\Александр\Documents\Test_python\module_2" />
       <recent name="C:\Users\Александр\Documents\Test_python" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Александр\Documents\Test_python\module_2\lessson_1" />
       <recent name="C:\Users\Александр\Documents\Test_python\module_1\lesson_6" />
       <recent name="C:\Users\Александр\Documents\Test_python\home_project" />
       <recent name="C:\Users\Александр\Documents\Test_python\module_1" />
@@ -203,7 +193,21 @@
       <option name="project" value="LOCAL" />
       <updated>1621486523529</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="completed module 2 lesson 1">
+      <created>1621491427405</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621491427405</updated>
+    </task>
+    <task id="LOCAL-00004" summary="module 2 lesson 2">
+      <created>1621491611040</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621491611040</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,6 +225,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New three files for modules" />
     <MESSAGE value="add dir" />
-    <option name="LAST_COMMIT_MESSAGE" value="add dir" />
+    <MESSAGE value="completed module 2 lesson 1" />
+    <MESSAGE value="module 2 lesson 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="module 2 lesson 2" />
   </component>
 </project>
