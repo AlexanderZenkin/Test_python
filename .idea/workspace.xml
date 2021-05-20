@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b1f45ad-6735-4c08-906c-656c1c1548ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test_1-6-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_1-6-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_1-6-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Test_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Test_python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8b1f45ad-6735-4c08-906c-656c1c1548ef" name="Default Changelist" comment="New three files for modules">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_test_python.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_project/First_test_python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_File.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/New_File.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python.side" beforeDir="false" afterPath="$PROJECT_DIR$/work/python.side" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_1-6-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/test_1-6-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_1-6-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/test_1-6-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_1-6-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/test_1-6-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_1-6-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/test_1-6-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_1-6-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/test_1-6-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_1-6-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/test_1-6-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_testforpython.py" beforeDir="false" afterPath="$PROJECT_DIR$/work/test_testforpython.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_testforpythonaddnewhotel.py" beforeDir="false" afterPath="$PROJECT_DIR$/work/test_testforpythonaddnewhotel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_testnewgroup.py" beforeDir="false" afterPath="$PROJECT_DIR$/work/test_testnewgroup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +36,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1sdCJPZ91Y80c9Puc6d3nADM1gX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,8 +61,8 @@
       <recent name="C:\Users\Александр\Documents\Test_python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_1-6-6">
-    <configuration name="test_1-6-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.lesson1_6">
+    <configuration name="lesson1_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Test_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,7 +74,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_1-6-3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson1_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="riview" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Test_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/riview.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_1-6-4.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Александр\Documents\Test_python\module_1\test_1-6-4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +137,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_1-6-5.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Александр\Documents\Test_python\module_1\test_1-6-5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +158,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_1-6-6.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Александр\Documents\Test_python\module_1\test_1-6-6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,10 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lesson1_6" />
+        <item itemvalue="Python.riview" />
         <item itemvalue="Python.test_1-6-6" />
         <item itemvalue="Python.test_1-6-5" />
         <item itemvalue="Python.test_1-6-4" />
-        <item itemvalue="Python.test_1-6-3" />
       </list>
     </recent_temporary>
   </component>
@@ -147,6 +186,14 @@
       <option name="presentableId" value="Default" />
       <updated>1621193089247</updated>
     </task>
+    <task id="LOCAL-00001" summary="New three files for modules">
+      <created>1621437640689</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621437640689</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,5 +207,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New three files for modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="New three files for modules" />
   </component>
 </project>
