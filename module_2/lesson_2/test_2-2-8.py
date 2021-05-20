@@ -2,10 +2,9 @@ from selenium import webdriver
 import time
 import os
 
-
+# Инициализируем пути и файла
 with open("test.txt", "w") as file:
     content = file.write("automationbypython")
-
 current_dir = os.path.abspath(os.path.dirname(__file__))
 file_path = os.path.join(current_dir, 'test.txt')
 
@@ -19,9 +18,7 @@ try:
     browser.find_element_by_css_selector('input[placeholder="Enter last name"]').send_keys("Petrov")
     browser.find_element_by_css_selector('input[placeholder="Enter email"]').send_keys("IvanPetrov@mail.ru")
     # Добавляем файл
-
     browser.find_element_by_xpath('//*[@id="file"]').send_keys(file_path)
-    print(file_path)
     # Отправляем заполненную форму
     button = browser.find_element_by_css_selector("button.btn")
     button.click()

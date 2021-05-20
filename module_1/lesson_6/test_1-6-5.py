@@ -6,11 +6,11 @@ try:
     browser = webdriver.Chrome()
     browser.get(link)
 
-    input3 = browser.find_element_by_css_selector('input[placeholder="Input your first name"]')
+    input3 = browser.find_element_by_css_selector('div.first_block [class="form-control first"]')
     input3.send_keys("Ivan")
-    input3 = browser.find_element_by_css_selector('input[placeholder="Input your last name"]')
+    input3 = browser.find_element_by_css_selector('div.first_block [class="form-control second"]')
     input3.send_keys("Petrov")
-    input3 = browser.find_element_by_css_selector('input[placeholder="Input your email"]')
+    input3 = browser.find_element_by_css_selector('div.first_block [class="form-control third"]')
     input3.send_keys("IvanPetrov@mail.ru")
     # Отправляем заполненную форму
     button = browser.find_element_by_css_selector("button.btn")

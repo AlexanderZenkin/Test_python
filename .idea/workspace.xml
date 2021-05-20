@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b1f45ad-6735-4c08-906c-656c1c1548ef" name="Default Changelist" comment="module 2 lesson 2">
-      <change afterPath="$PROJECT_DIR$/module_2/lesson_2/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2/lesson_2/test_2-2-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2/lesson_2/test_2-2-6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2/lesson_2/test_2-2-8.py" afterDir="false" />
+    <list default="true" id="8b1f45ad-6735-4c08-906c-656c1c1548ef" name="Default Changelist" comment="completed 2 lesson 2">
+      <change afterPath="$PROJECT_DIR$/module_2/lesson_3/test_2-3-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_2/lesson_3/test_2-3-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_2/lesson_4/test_2-4-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_2/lesson_4/test_2-4-8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_2/lesson_2/test_2-2-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2/lesson_2/test_2-2-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1/lesson_6/test_1-6-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/lesson_6/test_1-6-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2/lesson_2/test_2-2-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2/lesson_2/test_2-2-8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,11 +45,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/module_2/lesson_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/module_2/lesson_4" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Александр\Documents\Test_python\module_2\lesson_4" />
+      <recent name="C:\Users\Александр\Documents\Test_python\module_2\lesson_3" />
       <recent name="C:\Users\Александр\Documents\Test_python\module_2\lesson_2" />
       <recent name="C:\Users\Александр\Documents\Test_python\module_2" />
       <recent name="C:\Users\Александр\Documents\Test_python" />
@@ -61,8 +64,8 @@
       <recent name="C:\Users\Александр\Documents\Test_python\work" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_2-2-8">
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.01-ex6-test2">
+    <configuration name="01-ex6-test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Test_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_2/lesson_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_1/ricence" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_2/lesson_2/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_1/ricence/01-ex6-test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_2-2-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson_6_step_11_ricence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Test_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_2/lesson_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_1/ricence" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_2/lesson_2/test_2-2-3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_1/ricence/lesson_6_step_11_ricence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_2-2-4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_1-6-5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Test_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_2/lesson_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_1/lesson_6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_2/lesson_2/test_2-2-4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_1/lesson_6/test_1-6-5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_2-2-6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_1-6-6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Test_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_2/lesson_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_1/lesson_6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_2/lesson_2/test_2-2-6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_1/lesson_6/test_1-6-6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_2-2-8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_2-4-8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Test_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,11 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_2/lesson_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_2/lesson_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_2/lesson_2/test_2-2-8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_2/lesson_4/test_2-4-8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_2-2-8" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.test_2-2-6" />
-        <item itemvalue="Python.test_2-2-4" />
-        <item itemvalue="Python.test_2-2-3" />
+        <item itemvalue="Python.01-ex6-test2" />
+        <item itemvalue="Python.lesson_6_step_11_ricence" />
+        <item itemvalue="Python.test_1-6-5" />
+        <item itemvalue="Python.test_1-6-6" />
+        <item itemvalue="Python.test_2-4-8" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621492801480</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="completed 2 lesson 2">
+      <created>1621508927600</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1621508927600</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,6 +251,7 @@
     <MESSAGE value="add dir" />
     <MESSAGE value="completed module 2 lesson 1" />
     <MESSAGE value="module 2 lesson 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="module 2 lesson 2" />
+    <MESSAGE value="completed 2 lesson 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed 2 lesson 2" />
   </component>
 </project>
