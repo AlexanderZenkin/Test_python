@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b1f45ad-6735-4c08-906c-656c1c1548ef" name="Default Changelist" comment="completed 2 lesson 2">
+    <list default="true" id="8b1f45ad-6735-4c08-906c-656c1c1548ef" name="Default Changelist" comment="completed module 3">
+      <change afterPath="$PROJECT_DIR$/module_3/lesson_3/test_3-3-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_3/lesson_4/test_3-4-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_3/lesson_4/test_3-4-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_3/lesson_4/test_3-4-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_3/lesson_4/test_3-4-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_3/lesson_4/test_3-4-7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Test_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Test_python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_3/test_3-2-13.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/test_3-2-13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3/test_3-2-13.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/lesson_2/test_3-2-13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/test_testforpython.py" beforeDir="false" afterPath="$PROJECT_DIR$/work/test_testforpython.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/test_testforpythonaddnewhotel.py" beforeDir="false" afterPath="$PROJECT_DIR$/work/test_testforpythonaddnewhotel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/test_testnewgroup.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,110 +53,113 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/module_3" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/module_3/lesson_4" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Александр\Documents\Test_python\module_3\lesson_4" />
+      <recent name="C:\Users\Александр\Documents\Test_python\module_3\lesson_3" />
       <recent name="C:\Users\Александр\Documents\Test_python\module_3" />
       <recent name="C:\Users\Александр\Documents\Test_python\module_2\lesson_4" />
       <recent name="C:\Users\Александр\Documents\Test_python\module_2\lesson_3" />
-      <recent name="C:\Users\Александр\Documents\Test_python\module_2\lesson_2" />
-      <recent name="C:\Users\Александр\Documents\Test_python\module_2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Александр\Documents\Test_python\module_3\lesson_2" />
       <recent name="C:\Users\Александр\Documents\Test_python\module_2\lessson_1" />
       <recent name="C:\Users\Александр\Documents\Test_python\module_1\lesson_6" />
       <recent name="C:\Users\Александр\Documents\Test_python\home_project" />
       <recent name="C:\Users\Александр\Documents\Test_python\module_1" />
-      <recent name="C:\Users\Александр\Documents\Test_python\work" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for test_3-2-13.test_page_registration">
-    <configuration name="test_3-2-13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Test_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_3/test_3-2-13.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for test_3-2-13.Test_page_registration" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for test_testforpythonaddnewhotel.Test_for_python_add_new_hotel">
+    <configuration name="pytest for test_testforpythonaddnewhotel.Test_for_python_add_new_hotel" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Test_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_3-2-13.Test_page_registration&quot;" />
+      <option name="_new_target" value="&quot;test_testforpythonaddnewhotel.Test_for_python_add_new_hotel&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_3-2-13.test_page_registration" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_3-4-6.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Test_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_3/lesson_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_3-2-13.test_page_registration&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/module_3/lesson_4/test_3-4-6.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_3-2-13.test_page_registration.test_init_driver" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_3-4-7.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Test_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_3/lesson_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_3-2-13.test_page_registration.test_init_driver&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/module_3/lesson_4/test_3-4-7.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test_3-2-13.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_testforpython.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Test_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/module_3/test_3-2-13.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/work/test_testforpython.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_testforpythonaddnewhotel.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Test_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/work/test_testforpythonaddnewhotel.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for test_3-2-13.test_page_registration" />
-        <item itemvalue="Python tests.Unittests for test_3-2-13.test_page_registration.test_init_driver" />
-        <item itemvalue="Python tests.Unittests in test_3-2-13.py" />
-        <item itemvalue="Python tests.Unittests for test_3-2-13.Test_page_registration" />
-        <item itemvalue="Python.test_3-2-13" />
+        <item itemvalue="Python tests.pytest for test_testforpythonaddnewhotel.Test_for_python_add_new_hotel" />
+        <item itemvalue="Python tests.pytest in test_testforpythonaddnewhotel.py" />
+        <item itemvalue="Python tests.pytest in test_testforpython.py" />
+        <item itemvalue="Python tests.pytest in test_3-4-7.py" />
+        <item itemvalue="Python tests.pytest in test_3-4-6.py" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621508927600</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="completed module 3">
+      <created>1621575484460</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1621575484460</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +242,7 @@
     <MESSAGE value="completed module 2 lesson 1" />
     <MESSAGE value="module 2 lesson 2" />
     <MESSAGE value="completed 2 lesson 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed 2 lesson 2" />
+    <MESSAGE value="completed module 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed module 3" />
   </component>
 </project>
