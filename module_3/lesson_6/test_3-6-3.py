@@ -1,18 +1,16 @@
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import pytest
 from selenium import webdriver
 import time
 import math
 
-#answer = math.log(int(time.time()))
+url = ['https://stepik.org/lesson/236895/step/1', 'https://stepik.org/lesson/236896/step/1','https://stepik.org/lesson/236897/step/1',
+'https://stepik.org/lesson/236898/step/1', 'https://stepik.org/lesson/236899/step/1', 'https://stepik.org/lesson/236903/step/1',
+'https://stepik.org/lesson/236904/step/1', 'https://stepik.org/lesson/236905/step/1',]
 
-a = 'https://stepik.org/lesson/236895/step/1'
-b = 'https://stepik.org/lesson/236896/step/1'
-c = 'https://stepik.org/lesson/236897/step/1'
-d = 'https://stepik.org/lesson/236898/step/1'
-e = 'https://stepik.org/lesson/236899/step/1'
-f = 'https://stepik.org/lesson/236903/step/1'
-g = 'https://stepik.org/lesson/236904/step/1'
-h = 'https://stepik.org/lesson/236905/step/1'
+textprov = ''
 
 @pytest.fixture(scope="function")
 def browser():
@@ -20,20 +18,23 @@ def browser():
     browser = webdriver.Chrome()
     yield browser
     print("\nquit browser..")
+    print('Послание:' + textprov)
     browser.quit()
 
-@pytest.mark.parametrize('address', [a, b, c, d, e, f, g, h])
+@pytest.mark.parametrize('address', url)
 def test_guest_should_see_login_link(browser, address):
     link = f"{address}"
     browser.get(link)
-    time.sleep(15)
-    answer = math.log(int(time.time()))
-    browser.find_element_by_xpath("//*[@id='ember85']").click()
-    browser.find_element_by_xpath("//*[@id='ember85']").send_keys(str(answer)) # "[id='ember184']"
-    time.sleep(1)
+
+    browser.implicitly_wait(5)
+    browser.find_element_by_css_selector("[class='ember-text-area ember-view textarea string-quiz__textarea']").click()
+    browser.find_element_by_css_selector("[class='ember-text-area ember-view textarea string-quiz__textarea']").send_keys(str(math.log(int(time.time())))) # "[id='ember184']"
+    WebDriverWait(browser, 12).until(EC.element_to_be_clickable((By.CSS_SELECTOR, '[class="submit-submission"]')))
     browser.find_element_by_css_selector('[class="submit-submission"]').click()
-    time.sleep(20)
-    welcome_text_elt = browser.find_element_by_css_selector("[class='smart-hints__hint']") #//*[@id="ember116"]/pre
-    welcome_text = welcome_text_elt.text
-    assert ("Correct!") == (welcome_text)
+    prov = WebDriverWait(browser, 12).until(EC.visibility_of_element_located((By.CSS_SELECTOR, "[class='smart-hints__hint']"))).text
+
+    global textprov
+    if prov != "Correct!":
+        textprov = textprov + str(prov)
+        print('В переменную добавленно выражение отличное от образца:' + textprov)
 
